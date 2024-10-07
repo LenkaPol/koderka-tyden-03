@@ -18,5 +18,21 @@
     border: 1px dashed red;
     background-color: #ffffcc;
 }
+.kontejner {
+    display: flex;
+}
 
 /* ---------------------------------------------------- */
+
+.druhy {
+    order: 1;
+}
+.prvni {
+    order: 2;
+}
+.treti {
+    order: 3;
+}
+.ctvrty {
+    order: 4;
+}
